@@ -1,4 +1,4 @@
-module github.com/pabloantipan/hobe-maps-api
+module github.com/pabloantipan/hobe-api-boilerplate
 
 go 1.23.3
 

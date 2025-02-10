@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/pabloantipan/hobe-maps-api/config"
+	"github.com/pabloantipan/hobe-api-boilerplate/config"
 )
 
 type HealthResponse struct {

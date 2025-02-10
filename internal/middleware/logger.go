@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/pabloantipan/hobe-maps-api/internal/cloud"
+	"github.com/pabloantipan/hobe-api-boilerplate/internal/cloud"
 )
 
 type RequestLoggerMiddleware struct {

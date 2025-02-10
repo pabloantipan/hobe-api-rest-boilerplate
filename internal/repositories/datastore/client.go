@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pabloantipan/hobe-maps-api/config"
+	"github.com/pabloantipan/hobe-api-boilerplate/config"
 
 	"cloud.google.com/go/datastore"
 	"google.golang.org/api/option"

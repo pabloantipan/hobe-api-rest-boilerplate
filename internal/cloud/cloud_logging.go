@@ -5,11 +5,11 @@ import (
 	"log"
 
 	"cloud.google.com/go/logging"
-	"github.com/pabloantipan/hobe-maps-api/config"
+	"github.com/pabloantipan/hobe-api-boilerplate/config"
 	"google.golang.org/api/option"
 )
 
-var logName = "hobe-maps-api"
+var logName = "hobe-api-boilerplate"
 
 type CloudLogger struct {
 	client *logging.Client
